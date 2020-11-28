@@ -3,7 +3,7 @@ Backend coding challenge in geektrust.in
 
 Problem type : Backend
 Problem name:
-  Problem 1 - Meet The Family,
+  Problem 1 - Meet The Family
   Link      - geektrust.in/coding-problem/backend/family
 
 Instructions on running the code:
