@@ -13,8 +13,8 @@ Instructions on running the code:
 3) Please unzip from the compressed file
 4) The commands are specified in the commands.txt file and the commands in the commands.txt file are as per in the given problem statement.
     Sample content of commands.txt file:
-        ADD_CHILD Asva Vani Female
-        GET_RELATIONSHIP Vasa Siblings
+        ->ADD_CHILD Asva Vani Female
+        ->GET_RELATIONSHIP Vasa Siblings
 5) For convenience, the commands.txt file should be placed in the same directory as the main file. The code can be run as :
     python3 geektrust.py commands.txt
 
